@@ -1,0 +1,2 @@
+profile,address,birthdate,gender,preferred_username,updated_at,website,picture,phone_number,phone_number_verified,zoneinfo,custom:spatialx_id,custom:user_id,custom:org_id,locale,email,email_verified,given_name,family_name,middle_name,name,nickname,cognito:mfa_enabled,cognito:username
+,,,,,,,,,,,,10,2,,demo@spatialx.ai,true,,,,,,false,demo@spatialx.ai

@@ -1,8 +1,6 @@
 import boto3
-import json
 import datetime
 import time
-import sys
 import argparse
 from colorama import Fore
 
@@ -11,7 +9,7 @@ USER_POOL_ID = ''
 LIMIT = 60
 MAX_NUMBER_RECORDS = 0
 REQUIRED_ATTRIBUTE = None
-CSV_FILE_NAME = 'CognitoUsers.csv'
+CSV_FILE_NAME = 'cognito_users.csv'
 PROFILE = ''
 STARTING_TOKEN = ''
 
